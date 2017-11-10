@@ -1,0 +1,6 @@
+{
+  "mongo": {
+    "location": "//localhost",
+    "database": "contacts"
+  }
+}
